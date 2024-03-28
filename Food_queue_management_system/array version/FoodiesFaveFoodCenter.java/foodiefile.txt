@@ -1,0 +1,3 @@
+Cashier1: q, 
+Cashier2: s,  
+Cashier3: b,    
